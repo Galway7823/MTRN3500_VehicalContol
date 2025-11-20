@@ -1,0 +1,12 @@
+﻿  Controller.cpp
+C:\Users\z5637231\Desktop\weeder-assignment-Galway7823-main\MTRN3500 Assignment 2\SMStore.h(7,21): warning C4677: 'Lidar': signature of non-private member contains assembly private type 'SM_Lidar'
+C:\Users\z5637231\Desktop\weeder-assignment-Galway7823-main\include\SMObjects.h(56): message : see declaration of 'SM_Lidar'
+C:\Users\z5637231\Desktop\weeder-assignment-Galway7823-main\MTRN3500 Assignment 2\SMStore.h(8,21): warning C4677: 'TM': signature of non-private member contains assembly private type 'SM_ThreadManagement'
+C:\Users\z5637231\Desktop\weeder-assignment-Galway7823-main\include\SMObjects.h(39): message : see declaration of 'SM_ThreadManagement'
+C:\Users\z5637231\Desktop\weeder-assignment-Galway7823-main\MTRN3500 Assignment 2\SMStore.h(10,21): warning C4677: 'VC': signature of non-private member contains assembly private type 'SM_VehicleControl'
+C:\Users\z5637231\Desktop\weeder-assignment-Galway7823-main\include\SMObjects.h(83): message : see declaration of 'SM_VehicleControl'
+C:\Users\z5637231\Desktop\weeder-assignment-Galway7823-main\MTRN3500 Assignment 2\SMStore.h(11,21): warning C4677: 'GNSS': signature of non-private member contains assembly private type 'SM_GNSS'
+C:\Users\z5637231\Desktop\weeder-assignment-Galway7823-main\include\SMObjects.h(70): message : see declaration of 'SM_GNSS'
+  Controller.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+ControllerInterface_x64_Debug.lib(controllerInterface.obj) : warning LNK4099: PDB 'ControllerInterface_x64_Debug.pdb' was not found with 'ControllerInterface_x64_Debug.lib(controllerInterface.obj)' or at 'C:\Users\z5637231\Desktop\weeder-assignment-Galway7823-main\Executables\ControllerInterface_x64_Debug.pdb'; linking object as if no debug info
+  MTRN3500 Assignment 2.vcxproj -> C:\Users\z5637231\Desktop\weeder-assignment-Galway7823-main\Executables\MTRN3500 Assignment 2.exe

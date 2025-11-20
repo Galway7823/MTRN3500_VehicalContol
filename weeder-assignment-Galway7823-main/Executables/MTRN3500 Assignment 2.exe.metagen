@@ -1,0 +1,14 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly MTRN3500 Assignment 2, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class SMStore: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    SM_Lidar Lidar : Public, Static, InitOnly
+    SM_ThreadManagement TM : Public, Static, InitOnly
+    SM_VehicleControl VC : Public, Static, InitOnly
+    SM_GNSS GNSS : Public, Static, InitOnly
